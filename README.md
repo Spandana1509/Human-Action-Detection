@@ -27,5 +27,18 @@ The models are evaluated using accuracy, precision, recall, F1-score, and a conf
 3. Open the Jupyter Notebook file.
 4. Run the notebook cells in order.
 
+## Model Evaluation Results
+
+The Decision Tree model was evaluated using the following metrics:
+
+| Metric | Score |
+|---|---:|
+| Accuracy | 80.00% |
+| Precision | 59.74% |
+| Recall | 63.64% |
+| F1-score | 61.16% |
+
+These metrics summarize the model's performance on the evaluation dataset.
+
 ## Author
 Spandana Aenugu
